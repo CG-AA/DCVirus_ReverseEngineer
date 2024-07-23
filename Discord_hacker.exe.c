@@ -5857,7 +5857,7 @@ void FUN_00407dd8(int *param_1,char param_2)
 }
 
 
-
+// might be error handling or cleanup
 void FUN_00407de8(int *param_1)
 
 {
@@ -73463,7 +73463,7 @@ void FUN_004a14f4(undefined4 param_1,undefined4 param_2,LPDWORD param_3)
 }
 
 
-
+//might be cleanup or error handling function
 void FUN_004a1600(void)
 
 {
